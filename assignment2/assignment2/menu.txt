@@ -1,0 +1,7 @@
+The Dinwiddie	25.50	6.00
+Ohana	21.00	5.00
+Lumberjack Burger	19.00	6.00
+The Big Mess	20.50	6.00
+Juicy Lucy	21.50	5.00
+Spidey	19.50	6.00
+Whopper	25.80	8.00
