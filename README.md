@@ -21,3 +21,8 @@ and etc.
 ***If the program keeps showing "Invalid selection"***
 This is most probably because the program asks you for a integer input but you
 typed in a character. The program will need to restarted.
+
+***The code is built in Visual Studio 2019***
+The source code is in assignment2/assignment2/assignment2.cpp
+The menu file is in assignment2/assignment2/menu.txt
+There is also a backup menu file in case at assignment2/assignment2/Menu(backup).txt
